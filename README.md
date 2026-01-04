@@ -25,7 +25,7 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 ## Step 4) Filtered for and observed RDP (Port 3389) Traffic Only
 <img width="1272" height="1153" alt="Filter for RDP Traffic Only" src="https://github.com/user-attachments/assets/f9daad5e-04fc-4bf1-b4f0-27e8b76cd71a" />
 
-## Step 5) VM was Deleted Upon Completoion of this Project (Not Pictured)
+## Step 5) VM was Deleted Upon Completion of this Project (Not Pictured)
 
 
 
