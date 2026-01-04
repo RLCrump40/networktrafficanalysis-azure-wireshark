@@ -22,5 +22,11 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 ## Step 3) Observed Network Traffic and Verified OSI Layer 2 and 3 Data
 <img width="1907" height="1189" alt="Observe Traffic and OSI Layer2:3 Data" src="https://github.com/user-attachments/assets/0feffa7c-56c1-4a42-a656-d31b8517f5c9" />
 
+## Step 4) Filtered for and observed RDP (Port 3389) Traffic Only
+<img width="1272" height="1153" alt="Filter for RDP Traffic Only" src="https://github.com/user-attachments/assets/f9daad5e-04fc-4bf1-b4f0-27e8b76cd71a" />
+
+## Step 5) RDP
+
+
 
 
