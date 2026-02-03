@@ -8,7 +8,7 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 - macOS
 - Remote Desktop Protocol (RDP)
 - Wireshark
-- Powershell
+- PowerShell
 
 ## **Walk-through:**
 
