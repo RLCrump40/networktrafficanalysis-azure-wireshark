@@ -19,7 +19,7 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 ## Step 2) Successfully Connected to VM using RDP and Downloaded Wireshark
 <img width="1904" height="1180" alt="Sucessfully downloaded Wireshark" src="https://github.com/user-attachments/assets/70be0737-a47f-462d-95bb-d2defda307da" />
 
-## Step 3) Observed Network Traffic and Verified OSI Layer 2 and 3 Data
+## Step 3) Observed Network Traffic and Verified OSI Layer 2 and 3 Data with PowerShell
 <img width="1907" height="1189" alt="Observe Traffic and OSI Layer2:3 Data" src="https://github.com/user-attachments/assets/0feffa7c-56c1-4a42-a656-d31b8517f5c9" />
 
 ## Step 4) Filtered for and observed RDP (Port 3389) Traffic Only
